@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nbodha
 - 👀 I’m interested in Scala for Big Data
 - 🌱 I’m currently learning AWS, ETL tools like Talend and MAC keyboard shortcuts 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on projects, tools that are related to Banking and Finance
 - 📫 You can reach me on my email naga.bodha@macquarie.com
 
 <!---
